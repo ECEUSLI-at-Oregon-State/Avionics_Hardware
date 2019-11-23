@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name capstone)(type Legacy)(uri C:/Capstone/AvionicsRev1/capstone.lib)(options "")(descr ""))
+  (lib (name Teensy3.6)(type Legacy)(uri C:/Capstone/BEAVS/Test-20191115T181649Z-001/Test/Teensy3.6.lib)(options "")(descr ""))
+)
